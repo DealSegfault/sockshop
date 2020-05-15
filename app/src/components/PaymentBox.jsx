@@ -30,7 +30,7 @@ export class PaymentBox extends React.Component {
       <div style={{ padding: "15px" }}>
         <form
           method="POST"
-          action="https://testnet.demo.btcpayserver.org/apps/37NLaNoSEjz6J39eHUKMdgKYz7gv/pos"
+          action="https://testnet.demo.btcpayserver.org/apps/4T81XbQwCLUjJBHgzaMqhnFf1j9e/pos"
         >
           <Input
             placeholder="Please input your email"
